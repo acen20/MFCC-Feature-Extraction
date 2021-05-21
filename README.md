@@ -5,4 +5,4 @@
 <br/>place this script in the directory as I have placed it in this repository.
 
 ### Waveform
-![WAVE](/Signal plots/Waveform.png)
+![WAVE](/Signal plots/Waveform.PNG)
