@@ -3,3 +3,6 @@
 2. To see what I mean by that, explore the audio folder in this repository. I have placed an audio as an example.<br>
 3. After you are done making directories for sounds,
 <br/>place this script in the directory as I have placed it in this repository.
+
+### Waveform
+![Wave](/Signal plots/waveform.png)
