@@ -1,5 +1,6 @@
 ## Output
 Generates 13 MFCCs (Columns), 44 Samples (Rows) for each sound signal and a Target column (Label) in addition to 13 MFCCs. (Review the dataset.csv to have an idea about shape of final data)
+###REVIEW THE GRAPHS BELOW
 
 ## Quick guide
 1. For each type of sound, create a directory or folder in the audio/ directory.<br>
